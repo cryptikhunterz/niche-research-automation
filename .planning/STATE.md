@@ -18,10 +18,16 @@ See: .planning/PROJECT.md (updated 2026-01-20)
 | Phase | Status | Notes |
 |-------|--------|-------|
 | 01 - Google Trends Scanner | In Progress | Script built, full scan pending |
-| 02 - Keyword Expansion | Not Started | |
+| 02 - Category Discovery | Complete | 111 new keywords across 9 categories |
 | 03 - YouTube Transcripts | Not Started | |
 | 04 - LLM Analysis | Not Started | |
 | 05 - Final Report | Not Started | |
+
+## Keyword Pool
+
+- Health/supplements: 47 keywords
+- New categories: 111 keywords
+- **Total: 158 keywords ready for trend analysis**
 
 ## Accumulated Decisions
 

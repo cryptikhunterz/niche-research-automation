@@ -26,16 +26,27 @@ Research: No (using known library)
 
 ---
 
-#### Phase 2: Keyword Expansion
-**Status:** Not started
-**Goal:** Expand initial results using related/rising queries
+#### Phase 2: Category Discovery [COMPLETE]
+**Status:** Complete
+**Goal:** Expand beyond health into multiple product categories
 
 Deliverables:
-- [ ] Expanded keyword list (target: 100-200 keywords)
-- [ ] Second scan pass on expanded keywords
-- [ ] Merged results CSV
+- [x] `category_discovery.py` - Multi-category keyword discovery
+- [x] `discovered_keywords.csv` - 111 keywords across 9 new categories
+- [x] Merged with health seeds = 158 total keywords
 
-Dependencies: Phase 1 complete scan
+Categories added:
+- home_kitchen (24 keywords)
+- pet_products (19 keywords)
+- outdoor_camping (15 keywords)
+- baby_parenting (12 keywords)
+- hobby_craft (13 keywords)
+- fitness_equipment (14 keywords)
+- tech_accessories (11 keywords)
+- gaming (5 keywords)
+- office_wfh (9 keywords)
+
+Dependencies: None
 
 Research: No
 
